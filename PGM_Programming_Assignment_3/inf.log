@@ -1,0 +1,3 @@
+Estimate of needed memory: 10kB
+Maximum memory: unlimited
+libc++abi.dylib: terminating with uncaught exception of type dai::Exception: Quantity not normalizable [File include/dai/prob.h, line 527, function: T dai::TProb<T>::normalize(dai::ProbNormType) [with T = double]]
